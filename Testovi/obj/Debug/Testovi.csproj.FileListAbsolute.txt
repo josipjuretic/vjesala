@@ -1,0 +1,7 @@
+C:\Users\korisnik\Source\Repos\vjesala\Testovi\bin\Debug\Testovi.dll
+C:\Users\korisnik\Source\Repos\vjesala\Testovi\bin\Debug\Testovi.pdb
+C:\Users\korisnik\Source\Repos\vjesala\Testovi\bin\Debug\vjesala.dll
+C:\Users\korisnik\Source\Repos\vjesala\Testovi\bin\Debug\vjesala.pdb
+C:\Users\korisnik\Source\Repos\vjesala\Testovi\obj\Debug\Testovi.csprojResolveAssemblyReference.cache
+C:\Users\korisnik\Source\Repos\vjesala\Testovi\obj\Debug\Testovi.dll
+C:\Users\korisnik\Source\Repos\vjesala\Testovi\obj\Debug\Testovi.pdb

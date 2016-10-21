@@ -1,0 +1,5 @@
+C:\Users\korisnik\Source\Repos\vjesala\vjesala\bin\Debug\vjesala.dll
+C:\Users\korisnik\Source\Repos\vjesala\vjesala\bin\Debug\vjesala.pdb
+C:\Users\korisnik\Source\Repos\vjesala\vjesala\obj\Debug\vjesala.csprojResolveAssemblyReference.cache
+C:\Users\korisnik\Source\Repos\vjesala\vjesala\obj\Debug\vjesala.dll
+C:\Users\korisnik\Source\Repos\vjesala\vjesala\obj\Debug\vjesala.pdb

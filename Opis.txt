@@ -1,0 +1,14 @@
+Igra vješala:
+
+Sudionici: 2 igraèa
+
+1. Nacrtaju se vješala.
+2. Prvi sudionik smisli rijeè.
+3. Prvi sudionik prikaže niz znakova podcrtavanja 
+   koji odgovaraju slovima u rijeèi.
+4. Drugi sudionik predlaže jedno slovo.
+5. Ako je slovo sadržano u traženoj rijeèi, prvi 
+   sudionik prikazuje slovo na odgovarajuæem mjestu.
+   U protivnom se dodaje dio tijela na vješala.
+6. Koraci 4 i 5 se ponavljaju sve dok nije pogoðena cijela rijeè
+   ili dok nije cijelo tijelo obješeno.
